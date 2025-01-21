@@ -1,8 +1,7 @@
-let userInput = "25.75 apples";
+let userInput = '25.75 apples';
+let extractednumber = parseFloat(userInput);
+let roundedNumber = extractednumber.toFixed(1);
 
-let number1 = Number.parseFloat(userInput, 10);
-
-let roundIt = number1.toFixed(1);
-
-console.log(roundIt);
-
+console.log(roundedNumber);
+console.log(extractednumber);
+console.log(userInput)
