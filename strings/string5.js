@@ -6,9 +6,9 @@ console.log('The first character is',first )
 console.log('The first character is',last )
 
 
-let word = 'Javascript'
-let first2 = (variable_word2[0]);
-let last2 = word[word.length -1]; 
+let word2 = 'Javascript'
+let first2 = (word2[0]);
+let last2 = word2[word2.length -1]; 
 
 console.log('The first character is '+ first2)
 console.log('The first character is ' + last2)

@@ -4,6 +4,3 @@ function capitalizeThat(str) {
 
 str = 'javascript' 
 console.log(capitalizeThat('javascript'))
-
-
-///ortskoskrpå

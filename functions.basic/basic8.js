@@ -1,4 +1,4 @@
-const roundNumber = (num, precision = 2) => {
+const roundNumber = (num, precision) => {
     return Number(num.toFixed
         (precision));
 }
